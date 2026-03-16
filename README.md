@@ -1,5 +1,9 @@
 # polynomial-py
-Polynomial arithmetic, evaluation, derivatives, integration, Lagrange interpolation. Zero dependencies.
-```
-python3 polynomial-py.py --test
+Polynomial - arithmetic, evaluation, roots, derivatives
+
+Zero-dependency Python CLI tool.
+
+## Usage
+```bash
+python3 polynomial.py
 ```
